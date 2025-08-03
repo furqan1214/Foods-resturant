@@ -190,15 +190,6 @@ style={{ backgroundColor: '#FFA726' }}
 ORDER NOW
 
 </button>
-
-<div className="mt-4 text-xs text-gray-400">
-
-<p>+44 8978 878 578</p>
-
-<p className="mt-1">www.foodlover.com</p>
-
-</div>
-
 </div>
 
 </div>
